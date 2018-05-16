@@ -79,6 +79,13 @@ span.checked_color{
  background : red !important;
 }
 
+.listing-author-contact-button{
+    background: rgb(207,233,181);
+    color: rgb(66,43,108);
+    font-weight: bolder;
+    border-radius: 50px;
+}
+
 
 
 
