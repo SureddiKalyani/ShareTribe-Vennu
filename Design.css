@@ -1,86 +1,139 @@
-
-
 body {
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
-.inline-big-button{
-display:none;
+
+.inline-big-button {
+    display: none;
 }
+
 .AddNewListingButton__desktop__17Luf {
-background-color : rgb(207, 233, 181);
-color:rgb(68, 47, 108);
+    background-color: rgb(207, 233, 181);
+    color: rgb(68, 47, 108);
 }
-.marketplace-lander-content-title{
-display:none;
+
+.marketplace-lander-content-title {
+    display: none;
 }
-.marketplace-lander-content-description{
-display:none;
+
+.marketplace-lander-content-description {
+    display: none;
 }
-.required{
+
+.required {
     border-color: rgb(68, 47, 108);
     outline: none;
 }
-button,.big-button, .inline-big-button, .tribe-actions, .marketplace-lander button.action-button, .pagination .current, .toggle-menu a:hover, .toggle-menu .toggle-menu-link:hover, .badge, .enabled-book-button, .disabled-book-button, .message-book-button, .listing-shape-delete-button{
-background-color : rgb(207, 233, 181)!important;
-border: 1px solid rgb(207, 233, 181)!important;
-color:rgb(68, 47, 108)!important;
-border-radius: 50px;
+
+button,
+.big-button,
+.inline-big-button,
+.tribe-actions,
+.marketplace-lander button.action-button,
+.pagination .current,
+.toggle-menu .toggle-menu-link:hover,
+.badge,
+.enabled-book-button,
+.disabled-book-button,
+.message-book-button,
+.listing-shape-delete-button {
+    background-color: rgb(207, 233, 181) !important;
+    border: 1px solid rgb(207, 233, 181) !important;
+    color: rgb(68, 47, 108) !important;
+    border-radius: 50px;
 }
 
-.noUi-horizontal .noUi-handle{
+.noUi-horizontal .noUi-handle {
     width: 15px;
     height: 15px;
     left: -3px;
     border-radius: 7px;
-    background-color:rgb(66, 43, 108);
+    background-color: rgb(66, 43, 108);
     top: -3px;
 }
-.noUi-connect{ background-color:rgb(207, 233, 181); }
 
-.noUi-background{ background:rgb(66, 43, 108);} 
-
-.noUi-handle-upper {display:none;}
-
-.ss-check:before{color:rgb(207, 233, 181);}
-
-.MenuMobile__scrollPane__2VvXd{
-background-color: rgb(66, 43, 108);
+.noUi-connect {
+    background-color: rgb(207, 233, 181);
 }
-.listing-author-avatar-image { border-radius : 60px; }
 
-.feed-actions .request-link, .view-item .listing-icons a:hover, .pagination a, a, .checkbox-option-checkmark { color : rgba(66, 43, 108, 0.9) } 
+.noUi-background {
+    background: rgb(66, 43, 108);
+}
 
-a:hover { color: rgb(66, 43, 108); }
+.noUi-handle-upper {
+    display: none;
+}
 
-.home-toolbar-button-group-button.selected, .home-toolbar-show-filters-button.selected:hover{ background-color : rgb(66, 43, 108); border-color: rgb(66, 43, 108); }
+.ss-check:before {
+    color: rgb(207, 233, 181);
+}
 
-.home-toolbar-button-group-button:hover { background-color : rgb(66, 43, 108) }
+.MenuMobile__scrollPane__2VvXd {
+    background-color: rgb(66, 43, 108);
+}
 
-input[type="checkbox"]{
-width:20px;
-height:20px;
-} 
-.listing_date_select { border-color : rgb(66, 43, 108); }
+.listing-author-avatar-image {
+    border-radius: 60px;
+}
 
-input[type=text]:focus, textarea:focus {
-box-shadow: 0 0 5px rgba(66, 43, 108, 1); 
-border: 1px solid rgba(66, 43, 108, 1); 
-outline: none;
+.feed-actions .request-link,
+.view-item .listing-icons a:hover,
+.pagination a,
+a,
+.checkbox-option-checkmark {
+    color: rgba(66, 43, 108, 0.9)
+}
+
+a:hover {
+    color: rgb(66, 43, 108);
+}
+
+.home-toolbar-button-group-button.selected,
+.home-toolbar-show-filters-button.selected:hover {
+    background-color: rgb(66, 43, 108);
+    border-color: rgb(66, 43, 108);
+}
+
+.home-toolbar-button-group-button:hover {
+    background-color: rgb(66, 43, 108)
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}
+
+.listing_date_select {
+    border-color: rgb(66, 43, 108);
+}
+
+input[type=text]:focus,
+textarea:focus {
+    box-shadow: 0 0 5px rgba(66, 43, 108, 1);
+    border: 1px solid rgba(66, 43, 108, 1);
+    outline: none;
+}
+
+.heading_list {
+    font-size: 28px;
 }
 
 .listing-author-contact-button {
-    background: rgb(207,233,181);
-    color: rgb(66,43,108);
+    background: rgb(207, 233, 181);
+    color: rgb(66, 43, 108);
     font-weight: bolder;
     border-radius: 50px;
 }
 
-span.checked_color{
- background : red !important;
+.Logo__logoImage__3oOkB {
+    height: 80%;
 }
 
+.toggle-menu a:hover {
+    background-color: white !important;
+    border: 1px solid white !important;
+    color: black;
+}
 
-
-
-
-
+.toggle.with-borders {
+    border: 1px solid rgb(66, 43, 108);
+    background-color: white;
