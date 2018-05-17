@@ -106,7 +106,8 @@ input[type="checkbox"] {
     border-color: rgb(66, 43, 108);
 } */
 
-input[type=text]:focus,input[type=password]:focus
+input[type=text]:focus,
+input[type=password]:focus,
 textarea:focus {
     box-shadow: 0 0 5px rgba(66, 43, 108, 1);
     border: 1px solid rgba(66, 43, 108, 1);
