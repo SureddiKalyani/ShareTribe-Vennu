@@ -1,7 +1,7 @@
 $(document).ready(function () {
     setTimeout(function () {
         // value and location after description
-        var val = $('.listing-details-container .row:eq(7)').text().trim().split(':').pop().trim();
+        var val = $('.listing-details-container .row:eq(9)').text().trim().split(':').pop().trim();
         var place = $('.origin')["0"].nextElementSibling.value;
         $('.listing-details-container .row:eq(2)').html('<div class="row"><div class="col-12"> <div class="row"> <div class="col-6"><p>' + place + '</p></div>   <div class="col-6"><b>Standing / Seating</b><p>' + val + '</p> </div></div></div></div>');
 

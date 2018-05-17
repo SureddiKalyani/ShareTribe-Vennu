@@ -102,9 +102,9 @@ input[type="checkbox"] {
     height: 20px;
 }
 
-.listing_date_select {
+/* .listing_date_select {
     border-color: rgb(66, 43, 108);
-}
+} */
 
 input[type=text]:focus,
 textarea:focus {
@@ -137,3 +137,20 @@ textarea:focus {
 .toggle.with-borders {
     border: 1px solid rgb(66, 43, 108);
     background-color: white;
+}
+
+.MenuMobile__menuSectionTitle__2HlQg {
+    color: white !important;
+}
+
+.MenuMobile__offScreenHeaderNewListingButton__3ssaA span {
+    color: white !important
+}
+
+.MenuMobile__menuSection__gD-As .MenuMobile__menuSectionMenuItemLink__GfyW6 {
+    color: white !important
+}
+
+select {
+    border-color: rgb(66, 43, 108);
+}
