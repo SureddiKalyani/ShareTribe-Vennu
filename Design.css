@@ -161,7 +161,26 @@ select {
     border-color: rgb(66, 43, 108);
 }
 
+/* search icon background color removed */
+
 .Topbar__topbar__7GUWt button {
     background: none !important;
     border: none !important;
+}
+
+/* drop down for home page */
+
+.toggle.with-borders.toggled {
+    background: rgb(232, 232, 232);
+    color: rgb(60, 60, 60) !important;
+}
+
+.toggle-menu a {
+    background: rgb(232, 232, 232);
+    color: rgb(60, 60, 60);
+}
+
+.toggle-menu-subitem,
+a.toggle-menu-subitem {
+    color: rgb(60, 60, 60) !important;
 }
