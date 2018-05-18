@@ -159,6 +159,7 @@ input[type=password]:focus {
 
 select {
     border-color: rgb(66, 43, 108);
+    outline: none;
 }
 
 /* search icon background color removed */
