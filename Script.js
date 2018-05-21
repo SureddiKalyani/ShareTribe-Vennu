@@ -13,5 +13,5 @@ $(document).ready(function () {
         var s = document.createElement("span");
         $(s).addClass("checked_color");
         $('.checkbox-container input[type=checkbox]').wrap('<span class="checked_color" />');
-    }, 900);
+    }, 1000);
 });
