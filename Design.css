@@ -185,3 +185,7 @@ select {
 a.toggle-menu-subitem {
     color: rgb(60, 60, 60) !important;
 }
+
+.heading_list {
+    margin-bottom: -6px;
+}
