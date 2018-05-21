@@ -1,5 +1,6 @@
 $(document).ready(function () {
     setTimeout(function () {
+        //location and value after description
         var val = $('.listing-details-container .row:eq(9)').text().trim().split(':').pop().trim();
         alert(val);
         var place = $('.origin')["0"].nextElementSibling.value;
