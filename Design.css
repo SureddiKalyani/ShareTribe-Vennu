@@ -189,3 +189,9 @@ a.toggle-menu-subitem {
 .heading_list {
     margin-bottom: -6px;
 }
+
+/* calendar */
+
+.datepicker table tr td.day:hover {
+    background-color: rgb(207, 233, 181);
+}
