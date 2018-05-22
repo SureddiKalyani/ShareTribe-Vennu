@@ -20,7 +20,7 @@
 // });
 $(window).on("load", function () {
     console.log("Loading");
-    setTimeout(function () {
+    //setTimeout(function () {
         //location and value after description
         var val = $('.listing-details-container .row:eq(9)').text().trim().split(':').pop().trim();
         console.log(val);
@@ -36,5 +36,5 @@ $(window).on("load", function () {
         var s = document.createElement("span");
         $(s).addClass("checked_color");
         $('.checkbox-container input[type=checkbox]').wrap('<span class="checked_color" />');
-    }, 500);
+    //}, 500);
 });
