@@ -195,3 +195,13 @@ a.toggle-menu-subitem {
 .datepicker table tr td.day:hover {
     background-color: rgb(207, 233, 181);
 }
+
+.datepicker table tr td.day.range {
+    background-color: rgb(66, 43, 108);
+}
+
+.datepicker table tr td.day:hover,
+.datepicker table tr td.day.range:hover,
+.datepicker table tr td.day.range:hover:hover {
+    background-color: rgb(207, 233, 181);
+}
