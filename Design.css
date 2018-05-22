@@ -218,6 +218,7 @@ a.toggle-menu-subitem {
 }
 
 .datepicker table tr td span.active.active {
-    background-color: rgb(66, 43, 108);
-    border-color: rgb(66, 43, 108);
+    background-color: rgb(86, 65, 123);
+    border-color: rgb(86, 65, 123);
+    color: #ffffff;
 }
