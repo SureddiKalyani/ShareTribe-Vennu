@@ -6,10 +6,10 @@ body {
     display: none;
 }
 
-.AddNewListingButton__desktop__17Luf {
+/* .AddNewListingButton__desktop__17Luf {
     background-color: rgb(207, 233, 181);
     color: rgb(68, 47, 108);
-}
+} */
 
 .marketplace-lander-content-title {
     display: none;
@@ -24,7 +24,7 @@ body {
     outline: none;
 }
 
-button,
+/* button,
 .big-button,
 .inline-big-button,
 .tribe-actions,
@@ -40,7 +40,7 @@ button,
     border: 1px solid rgb(207, 233, 181) !important;
     color: rgb(68, 47, 108) !important;
     border-radius: 50px;
-}
+} */
 
 .noUi-horizontal .noUi-handle {
     width: 15px;
@@ -51,9 +51,9 @@ button,
     top: -3px;
 }
 
-.noUi-connect {
+/* .noUi-connect {
     background-color: rgb(207, 233, 181);
-}
+} */
 
 .noUi-background {
     background: rgb(66, 43, 108);
@@ -75,7 +75,7 @@ button,
     border-radius: 60px;
 }
 
-.feed-actions .request-link,
+/* .feed-actions .request-link,
 .view-item .listing-icons a:hover,
 .pagination a,
 a,
@@ -85,17 +85,17 @@ a,
 
 a:hover {
     color: rgb(66, 43, 108);
-}
+} */
 
-.home-toolbar-button-group-button.selected,
+/* .home-toolbar-button-group-button.selected,
 .home-toolbar-show-filters-button.selected:hover {
     background-color: rgb(66, 43, 108);
     border-color: rgb(66, 43, 108);
-}
+} */
 
-.home-toolbar-button-group-button:hover {
+/* .home-toolbar-button-group-button:hover {
     background-color: rgb(66, 43, 108)
-}
+} */
 
 input[type="checkbox"] {
     width: 20px;
@@ -106,7 +106,7 @@ input[type="checkbox"] {
     border-color: rgb(66, 43, 108);
 } */
 
-input[type=text]:focus,
+/* input[type=text]:focus,
 textarea:focus {
     box-shadow: 0 0 5px rgba(66, 43, 108, 1);
     border: 1px solid rgba(66, 43, 108, 1);
@@ -117,18 +117,18 @@ input[type=password]:focus {
     box-shadow: 0 0 5px rgba(66, 43, 108, 1);
     border: 1px solid rgba(66, 43, 108, 1);
     outline: none;
-}
+} */
 
 .heading_list {
     font-size: 28px;
 }
 
-.listing-author-contact-button {
+/* .listing-author-contact-button {
     background: rgb(207, 233, 181);
     color: rgb(66, 43, 108);
     font-weight: bolder;
     border-radius: 50px;
-}
+} */
 
 .Logo__logoImage__3oOkB {
     height: 80%;
@@ -181,10 +181,10 @@ select {
     color: rgb(60, 60, 60);
 }
 
-.toggle-menu-subitem,
+/* .toggle-menu-subitem, 
 a.toggle-menu-subitem {
     color: rgb(60, 60, 60) !important;
-}
+} */
 
 .heading_list {
     margin-bottom: -6px;
